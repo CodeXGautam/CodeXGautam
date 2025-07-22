@@ -18,14 +18,39 @@
 
 ### ⚙️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-161b22?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-161b22?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-161b22?style=flat&logo=mongodb)
+**Frontend**
+<br>
+![HTML5](https://img.shields.io/badge/-HTML5-161b22?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-161b22?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat&logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-161b22?style=flat&logo=tailwind-css)
-![Leaflet](https://img.shields.io/badge/-Leaflet-161b22?style=flat&logo=leaflet)
-![Firebase](https://img.shields.io/badge/-Firebase-161b22?style=flat&logo=firebase)
-![TomTom API](https://img.shields.io/badge/-TomTom-161b22?style=flat&logo=tomtom)
+![React](https://img.shields.io/badge/-React-161b22?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-161b22?style=flat&logo=next.js)
+
+**Backend**
+<br>
+![Node.js](https://img.shields.io/badge/-Node.js-161b22?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-161b22?style=flat&logo=express)
+![Django](https://img.shields.io/badge/-Django-161b22?style=flat&logo=django)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-161b22?style=flat&logo=api)
+
+**Database & Auth**
+<br>
+![MongoDB](https://img.shields.io/badge/-MongoDB-161b22?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-161b22?style=flat&logo=mongodb)
+![JWT](https://img.shields.io/badge/-JWT-161b22?style=flat&logo=jsonwebtokens)
+
+**DevOps / Tools**
+<br>
 ![Git](https://img.shields.io/badge/-Git-161b22?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=flat&logo=github)
+![NGINX](https://img.shields.io/badge/-NGINX-161b22?style=flat&logo=nginx)
+
+**Data Science & Scripting**
+<br>
+![Python](https://img.shields.io/badge/-Python-161b22?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/-NumPy-161b22?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-161b22?style=flat&logo=pandas)
 
 ---
 
