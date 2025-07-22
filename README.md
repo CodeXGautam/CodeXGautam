@@ -21,7 +21,7 @@
 **Frontend**
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-161b22?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-161b22?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-161b22?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat&logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-161b22?style=flat&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-161b22?style=flat&logo=react)
@@ -75,7 +75,7 @@
 ### 🎯 Fun Facts
 
 - 🧊 I’ve helped deploy field systems for **glacier tracking**
-- 🧠 I love designing tools that solve real-world city problems
+- 🧠 I love designing tools that solve real-world problems
 - 🌐 I explore tech that connects maps, automation, and users
 
 ---
