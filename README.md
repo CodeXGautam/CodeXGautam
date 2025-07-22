@@ -11,7 +11,7 @@
 
 - 🎓 Civil Engineering student passionate about tech & AI
 - 🤖 Creator of **Vocintera** – an AI-based Interview Practice Bot
-- 💻 Exploring **React**, **Node.js**, **Firebase**, and **Data APIs**
+- 💻 Exploring **Next.js**, **Node.js**, **LangChain**, and RESTful APIs 
 - 🧊 Deployed a **glacier tracking project** for real-world velocity monitoring
 
 ---
