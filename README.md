@@ -31,7 +31,7 @@
 
 ### 📌 Featured Projects
 
-- 🔄 **Delhi Route Planner** – Smart traffic-based routing with Leaflet.js & GraphHopper
+- 🔄 **RouteWiz** – Smart traffic-based routing with Leaflet.js & GraphHopper
 - 🤖 **Vocintera** – Practice mock interviews with AI and real questions
 - 🌆 **Mail Tracker Pro** - Tracks real time emails and let user know with dashboard updates
 - ❄️ **Glacier Tracker** – Real-time seasonal glacier velocity monitoring
