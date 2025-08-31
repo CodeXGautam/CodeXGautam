@@ -45,6 +45,7 @@
 ![Git](https://img.shields.io/badge/-Git-161b22?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=flat&logo=github)
 ![NGINX](https://img.shields.io/badge/-NGINX-161b22?style=flat&logo=nginx)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Data Science & Scripting**
 <br>
@@ -55,7 +56,7 @@
 ---
 
 ### 📌 Featured Projects
-
+- 🌱 **AgriSetu**- AI powered agriculture ecosystem
 - 🔄 **RouteWiz** – Smart traffic-based routing with Leaflet.js & GraphHopper
 - 🤖 **Vocintera** – Practice mock interviews with AI and real questions
 - 🌆 **Mail Tracker Pro** - Tracks real time emails and let user know with dashboard updates
