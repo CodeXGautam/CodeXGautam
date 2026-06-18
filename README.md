@@ -50,7 +50,7 @@ Software Engineer • Full-Stack Developer • AI & Distributed Systems Enthusia
 
 ### Currently Working On
 
-* Building scalable backend services at MonkCI
+* Building scalable backend services at Monk CI
 * Learning distributed systems and cloud-native architectures
 * Designing production-ready AI applications
 * Deep diving into system design and high-performance backend engineering
