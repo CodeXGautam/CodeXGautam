@@ -13,7 +13,7 @@ Software Engineer • Full-Stack Developer • AI & Distributed Systems Enthusia
 ### About Me
 
 * Final-year undergraduate at **IIT Roorkee**, majoring in Civil Engineering
-* Software Engineer Intern at **MonkCI, Bengaluru**, building scalable backend systems and billing infrastructure
+* Software Engineer Intern at **Monk CI, Bengaluru**, building scalable backend systems and billing infrastructure
 * Experienced in developing full-stack applications and integrating AI into real-world products
 * Interested in backend engineering, distributed systems, cloud infrastructure, and system design
 * Passionate about building products that are scalable, reliable, and impactful
